@@ -67,7 +67,7 @@ export default function MyReservation() {
 
   return (
     <div className={classes.container}>
-      <Typography variant="h3">My Reservation</Typography>
+      <Typography variant="h3">Erica's Reservation</Typography>
       <CustomTable
         data={data}
         columns={[

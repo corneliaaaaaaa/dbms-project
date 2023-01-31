@@ -42,7 +42,7 @@ const Header = () => {
         path: "/articles",
       },
       {
-        text: "My Reservation",
+        text: "Erica's Reservation",
         path: "/my-reservation",
       },
     ]);
