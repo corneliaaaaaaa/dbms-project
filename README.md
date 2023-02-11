@@ -1,6 +1,4 @@
 # dbms-project
-Final project of Database Management in NTU.
-
-The system provides the following functions:
-- reserve diet consultation
+The system aims to advocate the concept of precision nutrition and provides the following functions:
+- reserve nutrition consultation
 - read health articles and advertisement
